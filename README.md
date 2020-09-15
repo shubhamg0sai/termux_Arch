@@ -2,10 +2,14 @@
 
 # For latest version  of Arch 
  apt update
+
  apt upgrade
+
  git clone https://GitHub.com/shubhamggosai/termux_Arch
  cd termux_Arch
+
  ls
+
  bash setupTermuxArch.sh
 
 
