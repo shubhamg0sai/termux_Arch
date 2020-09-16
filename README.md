@@ -12,7 +12,7 @@
 
  ls
 
- bash setupTermuxArch.sh
+ bash Arch.sh
 
 
 # for artificial version of Arch
