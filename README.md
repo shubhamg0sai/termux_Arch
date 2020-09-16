@@ -1,6 +1,6 @@
 # termux_Arch
 
-![ ](
+![ ](https://github.com/shubhamggosai/termux_Arch/blob/master/IMG_20200916_180611.jpg)
 # For latest version  of Arch 
  apt update
 
