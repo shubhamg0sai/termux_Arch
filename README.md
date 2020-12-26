@@ -1,7 +1,7 @@
 # termux_Arch
 
 # Find me on 
-[Instagram](https://www.instagram.com/shubham_g0sain/?hl=en)
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
 
 
 ![ ](https://github.com/ShuBhamg0sain/termux_Arch/blob/master/IMG_20200916_180611.jpg)
