@@ -1,18 +1,17 @@
 # termux_Arch
 
-# Find me on 
-
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 
-![ ](https://github.com/ShuBhamg0sain/termux_Arch/blob/master/IMG_20200916_180611.jpg)
+
+![ ](https://github.com/shubhamg0sai/termux_Arch/blob/master/IMG_20200916_180611.jpg)
 # For latest version  of Arch 
  apt update
 
  apt upgrade
 
- git clone https://GitHub.com/ShuBhamg0sain/termux_Arch
+ git clone https://GitHub.com/shubhamg0sai/termux_Arch
 
  cd termux_Arch
 
